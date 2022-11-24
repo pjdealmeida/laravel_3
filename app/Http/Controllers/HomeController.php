@@ -39,7 +39,7 @@ class HomeController extends Controller
      **/
     public function welcome()
     {
-        return view('frontend.pages.welcome');
+        return view('frontend.pages.developers');
     }
 
     public function about()
