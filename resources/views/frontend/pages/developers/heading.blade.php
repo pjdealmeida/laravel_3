@@ -10,7 +10,7 @@
 
                 <nav class="nav mt-5">
                     <a href="#" class="btn btn-rounded btn-contrast btn-lg px-5">
-                        Review full docs
+                        Testar o gitub
                     </a>
                 </nav>
             </div>
