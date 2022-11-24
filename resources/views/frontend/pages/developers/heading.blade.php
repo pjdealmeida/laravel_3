@@ -10,7 +10,7 @@
 
                 <nav class="nav mt-5">
                     <a href="#" class="btn btn-rounded btn-contrast btn-lg px-5">
-                        Testar o gitub
+                        Testar o gitub dentro do Hostinger
                     </a>
                 </nav>
             </div>
